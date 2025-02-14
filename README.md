@@ -123,4 +123,4 @@ Contributions are welcome! Please submit pull requests with clear descriptions o
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details (you should create a LICENSE file and choose a license).
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
